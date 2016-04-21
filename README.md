@@ -1,3 +1,3 @@
-# android
+# AndroidCrud
 
-# Repository for all android related projects
+# Repository for all android crud application sample project
